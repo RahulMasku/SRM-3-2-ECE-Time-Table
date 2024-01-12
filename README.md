@@ -1,4 +1,4 @@
-# ECE time-table FOR 6TH SEM USING HTML AND CSS 
+# ECE time-table for 6th sem using HTML & CSS 
 Time Table useful for ECE SRM Students!
 .
 .
